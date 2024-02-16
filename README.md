@@ -28,6 +28,13 @@ We already have this for the Klebsiella genomes. Go inside each bacteria folder 
 
 https://ln5.sync.com/dl/f035cd0f0/nbxunxj3-7wexjnqf-8ytqqc2x-z2jar4pc
 
+Today's assignments:
+
+| Strain      | Lab member |
+| ----------- | ----------- |
+| KP96      | Ana       |
+|    |         
+
 
 #### 2. Annotation
 
