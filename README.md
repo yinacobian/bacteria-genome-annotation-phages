@@ -46,9 +46,22 @@ https://phaster.ca/
 
 #### 3. Output
 
-Upload the files for antibiotic resistance genes here:
+#### Upload the files for antibiotic resistance genes here:
 
 Save the file as .csv and name it: "KP96-CARD.csv"
+
+https://ln5.sync.com/dl/18986c030/adne3wa2-55v6dqmc-iufnr2p6-ki2dyfqu
+
+#### Upload the files for defense systems here:
+
+https://ln5.sync.com/dl/76d6e5f50/szjjnhak-eaikjjmz-ncdyrjk5-dxw5ud4z
+
+#### Upload the files for prophages here: 
+
+https://ln5.sync.com/dl/56f57ed80/b3pzaecg-6tq3umwc-z33ejpvm-n9p76euc
+
+
+
 
 
 
