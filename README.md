@@ -38,7 +38,7 @@ Today's assignments:
 | KP101      | Alisha       |
 | KP103      | Gabrielle       |
 | KP104      | Jesse       |
-| KP106      |        |    
+| KP106      |   Taek Soo     |    
 
 
 #### 2. Annotation
