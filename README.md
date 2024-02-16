@@ -27,3 +27,29 @@ We already have this for the Klebsiella genomes. Go inside each bacteria folder 
 #### This is the folder with the Klebsiella genomes: 
 
 https://ln5.sync.com/dl/f035cd0f0/nbxunxj3-7wexjnqf-8ytqqc2x-z2jar4pc
+
+
+#### 2. Annotation
+
+#### Antibiotic resistance genes
+
+CARD in BV-VCR: https://www.bv-brc.org/
+
+#### Phage defense systems
+
+https://defensefinder.mdmlab.fr/
+
+#### Prophages
+
+https://phaster.ca/
+
+
+#### 3. Output
+
+Upload the files for antibiotic resistance genes here:
+
+Save the file as .csv and name it: "KP96-CARD.csv"
+
+
+
+
