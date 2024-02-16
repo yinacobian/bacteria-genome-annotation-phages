@@ -33,7 +33,12 @@ Today's assignments:
 | Strain      | Lab member |
 | ----------- | ----------- |
 | KP96      | Ana       |
-|    |         
+| KP98      | Pooja       |
+| KP99      | Andrew       |
+| KP101      | Alisha       |
+| KP103      | Gabrielle       |
+| KP104      | Jesse       |
+| KP106      |        |    
 
 
 #### 2. Annotation
