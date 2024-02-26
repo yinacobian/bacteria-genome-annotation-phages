@@ -68,6 +68,12 @@ https://ln5.sync.com/dl/18986c030/adne3wa2-55v6dqmc-iufnr2p6-ki2dyfqu
 
 https://ln5.sync.com/dl/76d6e5f50/szjjnhak-eaikjjmz-ncdyrjk5-dxw5ud4z
 
+1. Download the complete analysis folder
+2. Decompress the files
+3. Get the file named "defense-finder-systems"
+4. Rename the file to include the bacteria strain ID: "KP96-defense-finder-systems"
+5. Upload the renamed file to sync
+
 #### Upload the files for prophages here: 
 
 https://ln5.sync.com/dl/56f57ed80/b3pzaecg-6tq3umwc-z33ejpvm-n9p76euc
